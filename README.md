@@ -3,7 +3,7 @@
 The binary classification goal is to predict if the client will subscribe a bank term deposit (variable y).
 
 
-#### Steps:
+### Steps:
 
 1. Importing Libraries
 2. Exploratory Data Analysis
@@ -15,3 +15,6 @@ The binary classification goal is to predict if the client will subscribe a bank
     iii. Gradient Boosting
 
 
+### Two notebook files:
+ 1.  In one notebook I did not take duration as input to the models.
+ 2.  In another notebook I did take duration as input to the models. [ So that we can use these models once we have contacted a client ]
