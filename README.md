@@ -22,5 +22,10 @@ The binary classification goal is to predict if the client will subscribe a bank
 
 # Results:
 
+#### AUC ROC plot on model without duration 
 ![Results Plot without duration](https://github.com/zyper26/Bank_Marketing_Full/blob/master/results_without_duration.png)
+
+<br/> <br/>
+
+#### AUC ROC plot on model with duration
 ![Results Plot with duration](https://github.com/zyper26/Bank_Marketing_Full/blob/master/results_duration.png)
